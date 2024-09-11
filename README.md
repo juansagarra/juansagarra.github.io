@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: juansagarra@gmail.om
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 8 fingers in my left hand which is not true, of course
+
+name						Juan Martinez-Sagarra Gonzalez
+email						juansagarra@gmail.com
+description of your Github account		Account for the semester in WakeTech
+description of the repository you created	Repository for the exercises 
+description of the steps to clone		I clicked "File" and then "Clone Repository". I selected the local folder to clone it by default and then clicked "Clone"
+
+
+
+
 -->
