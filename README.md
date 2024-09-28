@@ -3,9 +3,9 @@
 
 >Juan: "I'm happy to code again"
 
-#### I enjoy doing this course. I think it's a great way to get involved in coding again.
+#### You can check [my LinkedIn profile](https://www.linkedin.com/in/juansagarra/) . If you do, please feel free to ask to  **connect!**. I enjoy doing this course. I think it's a great way to get involved in coding again.
 #### I'm interested in **American literature** in the XX Century and travelling
-#### Websites I Recommend
+#### These are pagses that I use daily (Apart of the WakeTech one, of course)
 - [LinkedIn](https://www.linkedin.com) - For keeping up to date with my professional network
 - [YouTube](https://www.youtube.com) - For learning through video image
 
