@@ -8,6 +8,9 @@ flowchart TD
 Evaluation --> |higher| E[Inform user its number is higher than the number to guess]
 Evaluation --> |lower| F[Inform user its number is lower than the number to guess]
 
+E --> C
+F --> C
+
 
 
 ```
