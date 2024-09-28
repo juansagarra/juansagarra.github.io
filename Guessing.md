@@ -3,9 +3,9 @@ flowchart TD
 
 
 
- Start([Start]) --> A(Declare Random Variable) --> B(Assign value randomly between 1 and 100) --> C(Ask player a guess between 1 and 100) --> Validation{Is it a number between 1 and 100?} --> Evaluation{Evaluate the answer}  
+ Start([Start]) --> A(Declare Random Variable) --> B(Assign value randomly between 1 and 100) --> C(Ask player a guess between 1 and 100) --> Validation{Is it a number between 1 and 100?}   
 
-Validation --> |Yes| Evaluation
+Validation --> |Yes| Evaluation{Evaluate the answer}
 Validation --> |No| C
 
 Evaluation --> |higher| E[Inform user its number is higher than the number to guess]
