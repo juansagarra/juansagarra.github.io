@@ -3,5 +3,5 @@ flowchart TD
 
 
 
- Start([Start]) --> Declare Random Variable --> Assign value randomly --> Ask player a guess --> Evaluate(Is it correct?) --> End([End])
+ Start([Start]) --> A(Declare Random Variable) --> B(Assign value randomly) --> C(Ask player a guess) --> D(Evaluate) --> End([End])
 ```
