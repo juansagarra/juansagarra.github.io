@@ -21,6 +21,13 @@ description of the repository you created	Repository for the exercises
 description of the steps to clone		I clicked "File" and then "Clone Repository". I selected the local folder to clone it by default and then clicked "Clone"
 
 
+# About Me
+## I just turned 51 and happy to keep learning. I coded many years ago but I stopped when entering into the Infrastructures world. Now I'm happy to code again.
+## I'm interested in American literature in the XX Century and travelling
+## Websites I Recommend
+- [LinkedIn](https://www.linkedin.com) - For keeping up to date with my professional network
+- [YouTube](https://www.youtube.com) - For learning through video image
+## I enjoy doing this course. I think it's a great way to get involved in coding again.
 
 
 -->
