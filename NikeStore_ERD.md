@@ -38,9 +38,6 @@ erDiagram
 
 <!--
 
-Entities:
-Customer:
-
 All the information can be managed in four tables:
 
 - CUSTOMER
